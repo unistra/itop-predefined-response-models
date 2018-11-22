@@ -94,8 +94,8 @@
         <naming _delta="redefine">
           <format>%1$s/%2$s</format>
           <attributes>
-            <attribute id="category_id_friendlyname"/>
             <attribute id="name"/>
+            <attribute id="category_id_friendlyname"/>
           </attributes>
         </naming>
         <reconciliation _delta="redefine">
