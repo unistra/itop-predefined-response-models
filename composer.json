@@ -8,7 +8,7 @@
     }
   },
   "require": {
-    "gafhyb/itop-installer": "~1.0",
+    "gafhyb/itop-installer": "~1.1",
     "unistra/utils": "~2.0"
   },
   "repositories": [
